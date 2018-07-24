@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlaBlaWild²</string>
+    <string name="create">Creer</string>
+    <string name="date">Date</string>
+    <string name="departure_date">Date de départ</string>
+    <string name="driver">Conducteur</string>
+    <string name="departure">Depart</string>
+    <string name="destination">Destination</string>
+    <string name="add_your_itinerary">Ajouter son itinérraire</string>
+    <string name="welcome_into_blablawild">Bienvenue sur blablawild</string>
+    <string name="search_an_itinerary">Chercher un itinéraire</string>
+    <string name="price">Prix</string>
+    <string name="fill_all_fields">Veuillez remplir tous les champs</string>
+    <string name="search">Chercher</string>
+    <string name="departure_to_destination">\???</string>
+</resources>
